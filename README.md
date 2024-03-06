@@ -2,8 +2,8 @@
 
 
  
-[![Linkedin: Laxman Singh](https://www.linkedin.com/in/laxman-singh-437058268)](https://www.linkedin.com/in/laxman-singh-437058268)
-[![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Ujjwal-Dobliyal?label=follow&style=social)](https://github.com/45Aditya)
+[![Linkedin: Laxman Singh](https://img.shields.io/badge/-Laxman_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laxman-singh-437058268)](https://www.linkedin.com/in/laxman-singh-437058268)
+[![GitHub Laxman-Singh](https://img.shields.io/github/followers/Laxman-Singh?label=follow&style=social)](https://github.com/laxmansingh750046)
 
 
 <h2 align="center">Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=27px> </h2>
@@ -27,3 +27,5 @@
  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-round&logo=css3"/>
  <img src="https://img.shields.io/badge/Git/Github-8c1b50?style=flat-round&logo=git&logoColor=white"/>
 </h3>
+
+
