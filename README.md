@@ -1,8 +1,8 @@
-<h1 style="color: red;"> Hey There! I am Ujjwal Dobliyal  </h1> 
+<h1 style="color: red;"> Hey There! I am Laxman Singh  </h1> 
 
 
  
-[![Linkedin: Ujjwal Dobliyal](https://img.shields.io/badge/-Ujjwal_Dobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ujjwal-dobliyal-9689b6289/)](https://www.linkedin.com/in/ujjwal-dobliyal-9689b6289/)
+[![Linkedin: Laxman Singh](https://www.linkedin.com/in/laxman-singh-437058268)](https://www.linkedin.com/in/laxman-singh-437058268)
 [![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Ujjwal-Dobliyal?label=follow&style=social)](https://github.com/45Aditya)
 
 
